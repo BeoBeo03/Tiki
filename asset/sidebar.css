@@ -142,7 +142,7 @@
 /* slider */
 
 .slider__items {
-    width:1042px;
+    width:1042px !important;
     height:450px;
     position: relative;
     cursor: pointer;
